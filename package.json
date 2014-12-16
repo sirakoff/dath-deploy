@@ -1,0 +1,19 @@
+{
+  "name": "dath-deploy",
+  "version": "0.0.1",
+  "description": "Simple Nodejs Deploy tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "keywords": [
+    "Server",
+    "Admin"
+  ],
+  "author": "Daniel Sirakoff",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sirakov/dath-deploy.git"
+  }
+}
